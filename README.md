@@ -2,9 +2,9 @@
 
 Clone the repository:
 
-```git clone <repository_url>```
+```git clone https://github.com/paplauskis/app-uzd.git```
 
-```cd <repository_name>```
+```cd app-uzd```
 
 Restore dependencies:
 
